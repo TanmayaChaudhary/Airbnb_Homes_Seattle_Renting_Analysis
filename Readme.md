@@ -18,6 +18,6 @@ Q4->What's the trend of pricing through the whole year in Seattle?
 The dataset contains 3 files as :
 calendar.csv, listing.csv, reviews.csv
 
-[Dataset]([dataset](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fairbnb%2Fseattle%2Fdata))
+[Dataset](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fairbnb%2Fseattle%2Fdata)
 
 ### [**Medium Article**](https://medium.com/@TanmayaChaudhary/airbnb-homes-seattle-renting-e6035b8153ef?sk=292992408b20f262519d533cfd993dc5)
