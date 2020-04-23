@@ -43,6 +43,7 @@ From the analysis we can safely say the that:<br/>
 **The major findings can be found at the post available below:**
 ### [Medium Article](https://medium.com/@TanmayaChaudhary/airbnb-homes-seattle-renting-e6035b8153ef)
 
+
 ## 5. Acknowledgements
 
 I would like to thank the mentors at Udacity for coaching necessary background skills in Data Analysis.
